@@ -1,0 +1,5 @@
+# Main libraries
+jupyter
+numpy
+pandas
+matplotlib
